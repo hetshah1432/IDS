@@ -1,7 +1,6 @@
 from scripts.network_scanner import scan_network
 from scripts.port_scanner import scan_ports
 from scripts.anomaly_detection import detect_anomalies
-import os
 import socket
 import ipaddress
 
