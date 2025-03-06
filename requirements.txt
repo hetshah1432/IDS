@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+joblib
+scapy
+nmap
+python-nmap
+wireshark
+matplotlib
+seaborn
+flask
+django
+requests
+snort
+suricata
+pyyaml
+watchdog
