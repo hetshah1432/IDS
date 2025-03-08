@@ -66,5 +66,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-**Author:** Het Shah <br>
+**Author:** Het Shah <br> Het Prajapati<br> Ayush Vekariya <br>
 **GitHub:** [❤](https://github.com/hetshah1432)
